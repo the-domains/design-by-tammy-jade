@@ -1,0 +1,28 @@
+name: Design By Tammy-Jade
+favicon: null
+layout_spectrum: 0.23803470097482204
+typography_spectrum: 0.6718794535845518
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+  brandStrength: 0.971734946127981
+  lightness: 0.39495528768748045
+  saturation: 0.09390293271280825
+  rhythmicContrast: 0.17233094503171742
+purpose: []
